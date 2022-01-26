@@ -1,6 +1,6 @@
 With this extension for Chrome, you can get quick access to some sites of the joystream project
 
-Installation procedure:
+Installation:
 1) Downloads
 2) Unzip
 3) Go to chrome://extensions
