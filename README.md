@@ -4,6 +4,6 @@ Installation:
 1) Downloads
 2) Unzip
 3) Go to chrome://extensions
-4) a) In the upper right corner, turn on Developer mode.
+4) a)In the upper right corner, turn on Developer mode.
    b)Click Download the unpacked extension.
    c)Find and select the applications or extensions folder.
